@@ -1,0 +1,2 @@
+# SmartSchool-Supplies-Digitizing-Ifrane-s-Library-for-Seamless-Ordering
+SmartSchool Supplies is a digital ordering platform for school and university supplies, streamlining the purchasing process for students, faculty, and the Ifrane community. By digitizing the city's library, the platform enhances accessibility, allowing users to browse, order, and choose delivery or pickup options effortlessly.
